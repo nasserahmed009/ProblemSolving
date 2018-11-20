@@ -6,7 +6,7 @@ using namespace std;
 
 
 int main(){
-  int stdNum, teamNum, distinctNumbers=0;
+  int stdNum, teamNum, distinctNumbers=1;
   cin>>stdNum>>teamNum;
 
   int scores[stdNum];
