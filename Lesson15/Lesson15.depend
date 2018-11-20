@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1540576515 source:c:\users\anass\desktop\cpp\lesson15\main.cpp
+	<iostream>
+	"student.h"
+
+1540576557 c:\users\anass\desktop\cpp\lesson15\student.h
+
+1540576501 source:c:\users\anass\desktop\cpp\lesson15\student.cpp
+	"student.h"
+	<iostream>
+
